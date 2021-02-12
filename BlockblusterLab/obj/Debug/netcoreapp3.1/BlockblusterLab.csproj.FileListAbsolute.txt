@@ -1,0 +1,13 @@
+C:\Users\jwyeth\source\repos\BlockblusterLab\BlockblusterLab\obj\Debug\netcoreapp3.1\BlockblusterLab.csprojAssemblyReference.cache
+C:\Users\jwyeth\source\repos\BlockblusterLab\BlockblusterLab\obj\Debug\netcoreapp3.1\BlockblusterLab.AssemblyInfoInputs.cache
+C:\Users\jwyeth\source\repos\BlockblusterLab\BlockblusterLab\obj\Debug\netcoreapp3.1\BlockblusterLab.AssemblyInfo.cs
+C:\Users\jwyeth\source\repos\BlockblusterLab\BlockblusterLab\obj\Debug\netcoreapp3.1\BlockblusterLab.csproj.CoreCompileInputs.cache
+C:\Users\jwyeth\source\repos\BlockblusterLab\BlockblusterLab\bin\Debug\netcoreapp3.1\BlockblusterLab.exe
+C:\Users\jwyeth\source\repos\BlockblusterLab\BlockblusterLab\bin\Debug\netcoreapp3.1\BlockblusterLab.deps.json
+C:\Users\jwyeth\source\repos\BlockblusterLab\BlockblusterLab\bin\Debug\netcoreapp3.1\BlockblusterLab.runtimeconfig.json
+C:\Users\jwyeth\source\repos\BlockblusterLab\BlockblusterLab\bin\Debug\netcoreapp3.1\BlockblusterLab.runtimeconfig.dev.json
+C:\Users\jwyeth\source\repos\BlockblusterLab\BlockblusterLab\bin\Debug\netcoreapp3.1\BlockblusterLab.dll
+C:\Users\jwyeth\source\repos\BlockblusterLab\BlockblusterLab\bin\Debug\netcoreapp3.1\BlockblusterLab.pdb
+C:\Users\jwyeth\source\repos\BlockblusterLab\BlockblusterLab\obj\Debug\netcoreapp3.1\BlockblusterLab.dll
+C:\Users\jwyeth\source\repos\BlockblusterLab\BlockblusterLab\obj\Debug\netcoreapp3.1\BlockblusterLab.pdb
+C:\Users\jwyeth\source\repos\BlockblusterLab\BlockblusterLab\obj\Debug\netcoreapp3.1\BlockblusterLab.genruntimeconfig.cache
